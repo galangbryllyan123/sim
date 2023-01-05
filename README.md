@@ -177,9 +177,9 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-senokidal - [@kakadlz](https://twitter.com/simontox21) 
+senokidal - [@montox](https://twitter.com/simontox21) 
 
-senokidal- [@kukuh.sn](https://www.instagram.com/kanggalang76/) 
+senokidal- [@kanggalang76](https://www.instagram.com/kanggalang76/) 
 
 Project Link: [https://github.com/galangbryllyan123/sim](https://github.com/galangbryllyan123/sim)
 
