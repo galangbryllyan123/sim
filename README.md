@@ -124,7 +124,7 @@ This is an example of how to list things you need to use the software and how to
 <!-- 1. Get a free API Key at [https://example.com](https://example.com) -->
 1. Clone the repo
    ```sh
-   git clone https://github.com/godgodwinter/sim-v2.git
+   git clone https://github.com/galangbryllyan123/sim.git
    ```
 2. Install menggunakan composer
    ```sh
@@ -177,10 +177,10 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Kukuh Setya Nugraha - [@kakadlz](https://twitter.com/kakadlz) 
-Kukuh Setya Nugraha - [@kukuh.sn](https://www.instagram.com/kukuh.sn/) 
+Kukuh Setya Nugraha - [@kakadlz](https://twitter.com/simontox21) 
+Kukuh Setya Nugraha - [@kukuh.sn](https://www.instagram.com/kanggalang76/) 
 
-Project Link: [https://github.com/godgodwinter/sim-v2](https://github.com/godgodwinter/sim-v2)
+Project Link: [https://github.com/galangbryllyan123/sim](https://github.com/galangbryllyan123/sim)
 
 
 
@@ -189,18 +189,3 @@ Project Link: [https://github.com/godgodwinter/sim-v2](https://github.com/godgod
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/godgodwinter/sim-v2.svg?style=for-the-badge
-[contributors-url]: https://github.com/godgodwinter/sim-v2/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/godgodwinter/sim-v2.svg?style=for-the-badge
-[forks-url]: https://github.com/godgodwinter/sim-v2/network/members
-[stars-shield]: https://img.shields.io/github/stars/godgodwinter/sim-v2.svg?style=for-the-badge
-[stars-url]: https://github.com/godgodwinter/sim-v2/stargazers
-[issues-shield]: https://img.shields.io/github/issues/godgodwinter/sim-v2.svg?style=for-the-badge
-[issues-url]: https://github.com/godgodwinter/sim-v2/issues
-[license-shield]: https://img.shields.io/github/license/godgodwinter/sim-v2.svg?style=for-the-badge
-[license-url]: https://github.com/godgodwinter/sim-v2/blob/master/LICENSE.txt
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://www.instagram.com/kukuh.sn/
-[product-screenshot-dashboardlm2]: images/dashboardlm2.png
-[product-screenshot-dashboardlm3]: images/dashboardlm3.png
-[product-screenshot-classdiagram1]: images/class_diagram1.png
