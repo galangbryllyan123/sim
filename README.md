@@ -177,8 +177,9 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Kukuh Setya Nugraha - [@kakadlz](https://twitter.com/simontox21) 
-Kukuh Setya Nugraha - [@kukuh.sn](https://www.instagram.com/kanggalang76/) 
+senokidal - [@kakadlz](https://twitter.com/simontox21) 
+
+senokidal- [@kukuh.sn](https://www.instagram.com/kanggalang76/) 
 
 Project Link: [https://github.com/galangbryllyan123/sim](https://github.com/galangbryllyan123/sim)
 
